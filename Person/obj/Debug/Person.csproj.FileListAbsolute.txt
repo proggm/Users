@@ -1,0 +1,8 @@
+E:\проекты\Person\Person\bin\Debug\Person.exe.config
+E:\проекты\Person\Person\bin\Debug\Person.exe
+E:\проекты\Person\Person\bin\Debug\Person.pdb
+E:\проекты\Person\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+E:\проекты\Person\Person\obj\Debug\Person.csproj.SuggestedBindingRedirects.cache
+E:\проекты\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+E:\проекты\Person\Person\obj\Debug\Person.exe
+E:\проекты\Person\Person\obj\Debug\Person.pdb
